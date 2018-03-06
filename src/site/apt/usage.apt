@@ -68,7 +68,7 @@ Technique A - In addition to a 'regular' executable jar file
     main/main.jar when this technique is used.  I will be fixing this in the
     future, just not right now.
 
-    It (apparently) does not effect exectution and is just a warning.
+    It (apparently) does not effect execution and is just a warning.
 
     The full text of the error is:
 
